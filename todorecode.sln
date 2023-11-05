@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todosapi", "todorecode\todosapi.csproj", "{D05AD8F7-E5F6-41D8-B5FF-98F521F9A28E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testReact", "testReact\testReact.csproj", "{D3814ED2-CE28-4C6B-89CF-8C4BE1E50B5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D05AD8F7-E5F6-41D8-B5FF-98F521F9A28E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D05AD8F7-E5F6-41D8-B5FF-98F521F9A28E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D05AD8F7-E5F6-41D8-B5FF-98F521F9A28E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D05AD8F7-E5F6-41D8-B5FF-98F521F9A28E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3814ED2-CE28-4C6B-89CF-8C4BE1E50B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3814ED2-CE28-4C6B-89CF-8C4BE1E50B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3814ED2-CE28-4C6B-89CF-8C4BE1E50B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3814ED2-CE28-4C6B-89CF-8C4BE1E50B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50B1994D-59A9-480D-B349-8BD584F5A6F7}
+	EndGlobalSection
+EndGlobal
